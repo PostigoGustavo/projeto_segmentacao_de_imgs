@@ -1,0 +1,32 @@
+
+img1:
+
+	Precision: 0.98096555
+	Recall: 0.9253289
+	F1-Score: 0.95233536
+
+
+img2:
+
+	Precision: 0.96018857
+	Recall: 0.9795692
+	F1-Score: 0.969782
+
+
+img3:
+
+	Precision: 0.99132365
+	Recall: 0.9986924
+	F1-Score: 0.9949944
+	
+img4:
+
+	Precision: 0.9596698
+	Recall: 0.89946073
+	F1-Score: 0.9285903
+	
+img5:
+
+	Precision: 0.99151194
+	Recall: 0.9789014
+	F1-Score: 0.9851663
